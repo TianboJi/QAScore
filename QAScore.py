@@ -2,7 +2,7 @@ import os
 # os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
-import pandas as pd
+# import pandas as pd
 from tqdm.auto import tqdm
 import numpy as np
 from transformers import (
